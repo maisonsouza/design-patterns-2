@@ -11,4 +11,12 @@ public class RaizQuadrada implements Expressao {
         return (int) Math.sqrt(expressao.avalia());
     }
 
+    @Override
+    public void aceita(Impressora impressora) {
+        impressora.visitaRaiz(this);
+    }
+
+    public Expressao getExpressao() {
+        return expressao;
+    }
 }

@@ -14,4 +14,19 @@ public class Divisao implements Expressao {
         int resultadoDaDireita = direita.avalia();
         return resultadoDaEsquerda / resultadoDaDireita;
     }
+
+    @Override
+    public void aceita(Impressora impressora) {
+        impressora.visitaDivisao(this);
+    }
+
+    public Expressao getEsquerda() {
+        return esquerda;
+    }
+
+    public Expressao getDireita() {
+        return direita;
+    }
+
+
 }

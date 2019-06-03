@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Cap3/Cap3.iml" filepath="$PROJECT_DIR$/Cap3/Cap3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Cap4/Cap4.iml" filepath="$PROJECT_DIR$/Cap4/Cap4.iml" />
       <module fileurl="file://$PROJECT_DIR$/cap1/cap1.iml" filepath="$PROJECT_DIR$/cap1/cap1.iml" />
       <module fileurl="file://$PROJECT_DIR$/cap2/cap2.iml" filepath="$PROJECT_DIR$/cap2/cap2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cap3/cap3.iml" filepath="$PROJECT_DIR$/cap3/cap3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cap4/cap4.iml" filepath="$PROJECT_DIR$/cap4/cap4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cap5/cap5.iml" filepath="$PROJECT_DIR$/cap5/cap5.iml" />
       <module fileurl="file://$PROJECT_DIR$/design-patterns-2.iml" filepath="$PROJECT_DIR$/design-patterns-2.iml" />
     </modules>
   </component>
